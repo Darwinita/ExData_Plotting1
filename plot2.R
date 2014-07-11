@@ -1,5 +1,5 @@
 #Set the working directory in your computer
-setwd("/Users/lorenzo/Documents/Johns\ Hopkins\ University\ Data\ Science/Exploratory_Data_Analysis/Assessment1/")
+setwd("/Users/lorenzo/Documents/Johns\ Hopkins\ University\ Data\ Science/Exploratory_Data_Analysis/Assessment1/ExData_Plotting1")
 
 fileURL<-"https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 datafilename<-"Course_project.zip"
